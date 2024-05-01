@@ -1,3 +1,3 @@
-#Naplata terena i opreme
+Naplata terena i opreme
 
-#Program rađen u C++
+Program rađen u C++
